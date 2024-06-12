@@ -21,4 +21,3 @@ AUC Score: An AUC of 0.88 suggests that the model has a high ability to distingu
 Feature Importance: The feature importance plot highlights which features are most influential in the model's predictions, with CUSTOMER INCOME being the most critical feature.
 This project effectively showcases the practical application of essential data science techniques and emphasizes the importance of thorough model evaluation and selection. The integration of Jupyter Notebook and Visual Studio Code as IDEs facilitated an efficient and streamlined workflow, contributing to the project's success.
 
-By leveraging these methodologies and tools, the project demonstrates how data science can be utilized to derive actionable insights and predictive power in real-world scenarios such as loan defaulter detection.
