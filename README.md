@@ -1,4 +1,5 @@
-Exploratory Data Analysis Project: Loan Defaulter Detection
+<h4> Exploratory Data Analysis Project: Loan Defaulter Detection
+</h4>
 
 This project demonstrates a comprehensive approach to building a predictive model for loan defaulter detection, encompassing a wide range of data science techniques and methodologies. Key concepts covered in this project include data loading and cleaning, handling missing values, outlier detection and removal, feature engineering, hyperparameter tuning, and model evaluation. The technologies and tools utilized in this project include:
 
