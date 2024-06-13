@@ -21,8 +21,9 @@ For hyperparameter tuning, GridSearchCV is employed to optimize the XGBoost mode
 </h2>
 
 
-ROC Curve Analysis: The model's ROC curve is well above the diagonal line, indicating it performs significantly better than random guessing.
-AUC Score: An AUC of 0.88 suggests that the model has a high ability to distinguish between default and non-default cases.
-Feature Importance: The feature importance plot highlights which features are most influential in the model's predictions, with CUSTOMER INCOME being the most critical feature.
+- ROC Curve Analysis: The model's ROC curve is well above the diagonal line, indicating it performs significantly better than random guessing.
+- AUC Score: An AUC of 0.88 suggests that the model has a high ability to distinguish between default and non-default cases.
+- Feature Importance: The feature importance plot highlights which features are most influential in the model's predictions, with CUSTOMER INCOME being the most critical feature.
+  
 This project effectively showcases the practical application of essential data science techniques and emphasizes the importance of thorough model evaluation and selection. The integration of Jupyter Notebook and Visual Studio Code as IDEs facilitated an efficient and streamlined workflow, contributing to the project's success.
 
