@@ -1,6 +1,6 @@
-<h2> 
+<h1> 
    Exploratory Data Analysis Project: Loan Defaulter Detection
-</h2>
+</h1>
 
 This project demonstrates a comprehensive approach to building a predictive model for loan defaulter detection, encompassing a wide range of data science techniques and methodologies. Key concepts covered in this project include data loading and cleaning, handling missing values, outlier detection and removal, feature engineering, hyperparameter tuning, and model evaluation. The technologies and tools utilized in this project include:
 
@@ -16,9 +16,9 @@ The project workflow begins with loading and cleaning the dataset, addressing mi
 Outlier detection and removal are performed to enhance model accuracy, followed by feature engineering to transform and encode the data. The data is then split into training and testing sets, and a RandomForestClassifier is initially trained to establish a baseline performance.
 
 For hyperparameter tuning, GridSearchCV is employed to optimize the XGBoost model, aiming to improve predictive performance. Model evaluation is conducted using metrics such as the ROC curve, AUC score, and classification report, with a focus on the model's ability to distinguish between defaulters and non-defaulters.
-<h3>
+<h2>
    The project concludes with the following key findings:
-</h3>
+</h2>
 
 
 ROC Curve Analysis: The model's ROC curve is well above the diagonal line, indicating it performs significantly better than random guessing.
